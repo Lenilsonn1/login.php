@@ -27,7 +27,6 @@ form input[type="text"],
 
 }
 
-
 </style>
 </head>
 <body>
